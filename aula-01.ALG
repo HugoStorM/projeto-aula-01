@@ -1,8 +1,8 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Professor   :
+// Descrição   :
+// Autor(a)    :  Hugo Lima
 // Data atual  : 08/08/2021
 Var
 // Seção de Declarações das variáveis 
@@ -13,6 +13,9 @@ Inicio
 
 
 escreval ("Olá mundo! ")
+
+//test para atividade//
+
 
 
 Fimalgoritmo
